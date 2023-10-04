@@ -2,8 +2,8 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: g++ Aktive Datei kompilieren",
-            "command": "/usr/bin/g++",
+            "label": "C/C++: cpp Aktive Datei kompilieren",
+            "command": "/usr/bin/cpp",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
