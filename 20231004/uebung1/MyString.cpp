@@ -18,10 +18,6 @@ MyString::MyString(char* content){
 
 };
 
-//Destruktor
-MyString::~MyString(){
-    //Keine Aktion nötig.
-};
 
 void MyString::print()
 {
